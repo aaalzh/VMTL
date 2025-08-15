@@ -106,9 +106,10 @@ vitiligo-paired/  # 白癜风图像配对任务根目录
 ├─ requirements.txt
 
 # 使用说明
-直接运行Test文件夹下的代码即可，其余训练预处理代码需要更改部分文件地址，对应的如何权重上传还在学习中，后续更新
+直接运行Test文件夹下的代码即可，其余训练预处理代码需要更改部分文件地址，对应的如何权重上传还在学习中，后续更新。
+由于数据保密要求，不提供数据集。
+网页部署使用的是deploy代码文件里的gradio技术。
+<img width="1988" height="1399" alt="image" src="https://github.com/user-attachments/assets/9696b1a1-5d76-4fcc-b013-ad767460ead0" />
+<img width="1916" height="1317" alt="image" src="https://github.com/user-attachments/assets/68fa3878-7826-448a-9966-f50b97d50b1b" />
 
-网页部署使用的是deploy代码文件里的gradio
-<img width="870" height="744" alt="image" src="https://github.com/user-attachments/assets/3ec50100-50b8-4102-95cc-473622af1f4c" />
-<img width="889" height="769" alt="image" src="https://github.com/user-attachments/assets/7a5e22e7-8cbe-449e-932d-cc55920bc150" />
 
